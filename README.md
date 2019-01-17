@@ -10,13 +10,11 @@ Copy in your bin path (~/bin , /usr/local/bin/) and use !
 
 ```
 $ pingon 192.168.1.2
-
 Waiting ...                  /
 ```
 
 ```
 $ pingon 192.168.1.2
-
 Waiting ...                  [OK]
 ```
 

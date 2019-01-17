@@ -8,18 +8,15 @@ Copy in your bin path (~/bin , /usr/local/bin/) and use !
 
 ## Exemple
 
-`$ pingon 192.168.1.2
+```
+$ pingon 192.168.1.2
 
 Waiting ...                  /
+```
 
-`
-
-`$ pingon 192.168.1.2
+```
+$ pingon 192.168.1.2
 
 Waiting ...                  [OK]
-
-`
-
 ```
-This too
-```
+
